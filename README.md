@@ -2,6 +2,8 @@ NAME:RATHISH.R
 
 REG NO :24901297
 
+Date: 15.04.2025
+
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
